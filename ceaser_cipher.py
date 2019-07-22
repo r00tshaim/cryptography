@@ -1,3 +1,7 @@
+#ceaser cipher tool has following features:
+#encrypting
+#decrypting
+#bruteforcing
 
 def encrypt(string2,key):
 	result = ""
